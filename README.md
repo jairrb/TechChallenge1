@@ -1,4 +1,4 @@
-# Tech Challenge - Análise de Saúde Mental
+# Tech Challenge - PosTech FIAP AI4DEVS 9IADT - Grupo 20 - Análise de Saúde Mental
 
 ## Descrição do Projeto
 Este projeto tem como objetivo analisar dados relacionados à saúde mental, explorando fatores que podem influenciar o tratamento.
