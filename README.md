@@ -7,6 +7,11 @@ Através de técnicas de análise exploratória e modelagem de dados, buscamos i
 
 ---
 
+## Dataset
+https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset
+
+---
+
 ## Objetivos
 - Realizar limpeza e tratamento dos dados
 - Explorar variáveis relevantes para saúde mental
